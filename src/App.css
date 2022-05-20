@@ -1,0 +1,14 @@
+.App {
+  background-color: #f6f6f6;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+img {
+  max-width: 35%;
+  max-height: 25%;
+}
